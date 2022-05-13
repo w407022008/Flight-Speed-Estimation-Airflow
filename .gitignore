@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Developer environments
+.idea
+.vscode
+
+# Project-related directories
+datasets/
